@@ -8,6 +8,6 @@
 import Foundation
 
 let testNumber = 10
-let dev = 12
+let dev1 = 12
 let yy = 14
 
